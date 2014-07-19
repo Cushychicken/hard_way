@@ -1,0 +1,47 @@
+vbit_test-ternary.o vbit_test-ternary.o: ternary.c /usr/include/assert.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h vtest.h /usr/include/stdint.h \
+  ../../../VEX/pub/libvex.h ../../../VEX/pub/libvex_basictypes.h \
+  ../../../VEX/pub/libvex_ir.h vbits.h /usr/include/stdio.h \
+  /usr/include/Availability.h /usr/include/AvailabilityInternal.h \
+  /usr/include/_types.h /usr/include/sys/_types.h \
+  /usr/include/machine/_types.h /usr/include/i386/_types.h \
+  /usr/include/secure/_stdio.h /usr/include/secure/_common.h
+
+/usr/include/assert.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/sys/_symbol_aliasing.h:
+
+/usr/include/sys/_posix_availability.h:
+
+vtest.h:
+
+/usr/include/stdint.h:
+
+../../../VEX/pub/libvex.h:
+
+../../../VEX/pub/libvex_basictypes.h:
+
+../../../VEX/pub/libvex_ir.h:
+
+vbits.h:
+
+/usr/include/stdio.h:
+
+/usr/include/Availability.h:
+
+/usr/include/AvailabilityInternal.h:
+
+/usr/include/_types.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/machine/_types.h:
+
+/usr/include/i386/_types.h:
+
+/usr/include/secure/_stdio.h:
+
+/usr/include/secure/_common.h:
